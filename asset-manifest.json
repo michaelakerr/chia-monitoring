@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/chia-monitoring/static/css/main.073c9b0a.css",
-    "main.js": "/chia-monitoring/static/js/main.423558ee.js",
+    "main.js": "/chia-monitoring/static/js/main.09aae18e.js",
     "static/js/787.e9c40a25.chunk.js": "/chia-monitoring/static/js/787.e9c40a25.chunk.js",
-    "static/media/logo.svg": "/chia-monitoring/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chia-monitoring/index.html",
     "main.073c9b0a.css.map": "/chia-monitoring/static/css/main.073c9b0a.css.map",
-    "main.423558ee.js.map": "/chia-monitoring/static/js/main.423558ee.js.map",
+    "main.09aae18e.js.map": "/chia-monitoring/static/js/main.09aae18e.js.map",
     "787.e9c40a25.chunk.js.map": "/chia-monitoring/static/js/787.e9c40a25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.423558ee.js"
+    "static/js/main.09aae18e.js"
   ]
 }
